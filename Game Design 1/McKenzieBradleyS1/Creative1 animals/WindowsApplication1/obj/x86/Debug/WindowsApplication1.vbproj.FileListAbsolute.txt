@@ -1,0 +1,22 @@
+Z:\Create a Project\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+Z:\Create a Project\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+Z:\Create a Project\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+Z:\Create a Project\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Create a Project\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\Create a Project\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\Create a Project\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Create a Project\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Create a Project\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+Z:\Create a Project\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+Z:\Create a Project\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+Z:\Creative1 animals\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+Z:\Creative1 animals\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+Z:\Creative1 animals\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+Z:\Creative1 animals\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Creative1 animals\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\Creative1 animals\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\Creative1 animals\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Creative1 animals\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Creative1 animals\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+Z:\Creative1 animals\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+Z:\Creative1 animals\WindowsApplication1\bin\Debug\WindowsApplication1.xml

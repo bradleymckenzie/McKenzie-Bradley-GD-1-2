@@ -1,0 +1,9 @@
+C:\Users\stu281494\Desktop\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\stu281494\Desktop\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\stu281494\Desktop\Shapes\Shapes\bin\Debug\Shapes.xml
+C:\Users\stu281494\Desktop\Shapes\Shapes\obj\x86\Debug\Shapes.Form1.resources
+C:\Users\stu281494\Desktop\Shapes\Shapes\obj\x86\Debug\Shapes.Resources.resources
+C:\Users\stu281494\Desktop\Shapes\Shapes\obj\x86\Debug\Shapes.vbproj.GenerateResource.Cache
+C:\Users\stu281494\Desktop\Shapes\Shapes\obj\x86\Debug\Shapes.exe
+C:\Users\stu281494\Desktop\Shapes\Shapes\obj\x86\Debug\Shapes.xml
+C:\Users\stu281494\Desktop\Shapes\Shapes\obj\x86\Debug\Shapes.pdb

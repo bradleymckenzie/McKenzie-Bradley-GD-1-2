@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P18_McKenzieBradley_Crane\P18_McKenzieBradley_Crane\bin\Debug\P18_McKenzieBradley_Crane.exe.config
+Z:\P2_GameDesign 2\Semester 2\P18_McKenzieBradley_Crane\P18_McKenzieBradley_Crane\bin\Debug\P18_McKenzieBradley_Crane.exe
+Z:\P2_GameDesign 2\Semester 2\P18_McKenzieBradley_Crane\P18_McKenzieBradley_Crane\bin\Debug\P18_McKenzieBradley_Crane.pdb
+Z:\P2_GameDesign 2\Semester 2\P18_McKenzieBradley_Crane\P18_McKenzieBradley_Crane\obj\Debug\P18_McKenzieBradley_Crane.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P18_McKenzieBradley_Crane\P18_McKenzieBradley_Crane\obj\Debug\P18_McKenzieBradley_Crane.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P18_McKenzieBradley_Crane\P18_McKenzieBradley_Crane\obj\Debug\P18_McKenzieBradley_Crane.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P18_McKenzieBradley_Crane\P18_McKenzieBradley_Crane\obj\Debug\P18_McKenzieBradley_Crane.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P18_McKenzieBradley_Crane\P18_McKenzieBradley_Crane\obj\Debug\P18_McKenzieBradley_Crane.exe
+Z:\P2_GameDesign 2\Semester 2\P18_McKenzieBradley_Crane\P18_McKenzieBradley_Crane\obj\Debug\P18_McKenzieBradley_Crane.pdb

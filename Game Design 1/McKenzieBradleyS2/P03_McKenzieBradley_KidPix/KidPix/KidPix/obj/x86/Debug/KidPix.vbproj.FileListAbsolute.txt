@@ -1,0 +1,12 @@
+Z:\KidPix\KidPix\bin\Debug\KidPix.exe
+Z:\KidPix\KidPix\bin\Debug\KidPix.pdb
+Z:\KidPix\KidPix\bin\Debug\KidPix.xml
+Z:\KidPix\KidPix\obj\x86\Debug\KidPix.Form1.resources
+Z:\KidPix\KidPix\obj\x86\Debug\KidPix.Resources.resources
+Z:\KidPix\KidPix\obj\x86\Debug\KidPix.vbproj.GenerateResource.Cache
+Z:\KidPix\KidPix\obj\x86\Debug\KidPix.exe
+Z:\KidPix\KidPix\obj\x86\Debug\KidPix.xml
+Z:\KidPix\KidPix\obj\x86\Debug\KidPix.pdb
+Z:\P03_McKenzieBradley_KidPix\KidPix\KidPix\obj\x86\Debug\KidPix.exe
+Z:\P03_McKenzieBradley_KidPix\KidPix\KidPix\obj\x86\Debug\KidPix.xml
+Z:\P03_McKenzieBradley_KidPix\KidPix\KidPix\obj\x86\Debug\KidPix.pdb

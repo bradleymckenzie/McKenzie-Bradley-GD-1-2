@@ -1,0 +1,18 @@
+C:\Users\stu281494\Desktop\Tetris-Dominos\Tetris-Dominos\bin\Debug\Tetris-Dominos.exe
+C:\Users\stu281494\Desktop\Tetris-Dominos\Tetris-Dominos\bin\Debug\Tetris-Dominos.pdb
+C:\Users\stu281494\Desktop\Tetris-Dominos\Tetris-Dominos\bin\Debug\Tetris-Dominos.xml
+C:\Users\stu281494\Desktop\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris_Dominos.Form1.resources
+C:\Users\stu281494\Desktop\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris_Dominos.Resources.resources
+C:\Users\stu281494\Desktop\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris-Dominos.vbproj.GenerateResource.Cache
+C:\Users\stu281494\Desktop\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris-Dominos.exe
+C:\Users\stu281494\Desktop\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris-Dominos.xml
+C:\Users\stu281494\Desktop\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris-Dominos.pdb
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris-Dominos.exe
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris-Dominos.xml
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris-Dominos.pdb
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\Tetris-Dominos\Tetris-Dominos\bin\Debug\Tetris-Dominos.exe
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\Tetris-Dominos\Tetris-Dominos\bin\Debug\Tetris-Dominos.pdb
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\Tetris-Dominos\Tetris-Dominos\bin\Debug\Tetris-Dominos.xml
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris_Dominos.Form1.resources
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris_Dominos.Resources.resources
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\Tetris-Dominos\Tetris-Dominos\obj\x86\Debug\Tetris-Dominos.vbproj.GenerateResource.Cache

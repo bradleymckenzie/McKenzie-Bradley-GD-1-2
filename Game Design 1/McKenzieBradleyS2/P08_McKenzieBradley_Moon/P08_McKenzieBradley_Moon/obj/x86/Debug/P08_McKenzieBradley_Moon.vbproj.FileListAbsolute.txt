@@ -1,0 +1,18 @@
+Z:\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\bin\Debug\P08_McKenzieBradley_Moon.exe
+Z:\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\bin\Debug\P08_McKenzieBradley_Moon.pdb
+Z:\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\bin\Debug\P08_McKenzieBradley_Moon.xml
+Z:\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.Form1.resources
+Z:\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.Resources.resources
+Z:\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.vbproj.GenerateResource.Cache
+Z:\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.exe
+Z:\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.xml
+Z:\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.pdb
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS2\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.exe
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS2\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.xml
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS2\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.pdb
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS2\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\bin\Debug\P08_McKenzieBradley_Moon.exe
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS2\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\bin\Debug\P08_McKenzieBradley_Moon.pdb
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS2\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\bin\Debug\P08_McKenzieBradley_Moon.xml
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS2\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.Form1.resources
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS2\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.Resources.resources
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS2\P08_McKenzieBradley_Moon\P08_McKenzieBradley_Moon\obj\x86\Debug\P08_McKenzieBradley_Moon.vbproj.GenerateResource.Cache

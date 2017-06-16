@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\P11_McKenzieBradley_ID\P11_McKenzieBradley_ID\bin\Debug\P11_McKenzieBradley_ID.exe.config
+Z:\P2_GameDesign 2\P11_McKenzieBradley_ID\P11_McKenzieBradley_ID\bin\Debug\P11_McKenzieBradley_ID.exe
+Z:\P2_GameDesign 2\P11_McKenzieBradley_ID\P11_McKenzieBradley_ID\bin\Debug\P11_McKenzieBradley_ID.pdb
+Z:\P2_GameDesign 2\P11_McKenzieBradley_ID\P11_McKenzieBradley_ID\obj\Debug\P11_McKenzieBradley_ID.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P11_McKenzieBradley_ID\P11_McKenzieBradley_ID\obj\Debug\P11_McKenzieBradley_ID.Form1.resources
+Z:\P2_GameDesign 2\P11_McKenzieBradley_ID\P11_McKenzieBradley_ID\obj\Debug\P11_McKenzieBradley_ID.Properties.Resources.resources
+Z:\P2_GameDesign 2\P11_McKenzieBradley_ID\P11_McKenzieBradley_ID\obj\Debug\P11_McKenzieBradley_ID.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\P11_McKenzieBradley_ID\P11_McKenzieBradley_ID\obj\Debug\P11_McKenzieBradley_ID.exe
+Z:\P2_GameDesign 2\P11_McKenzieBradley_ID\P11_McKenzieBradley_ID\obj\Debug\P11_McKenzieBradley_ID.pdb

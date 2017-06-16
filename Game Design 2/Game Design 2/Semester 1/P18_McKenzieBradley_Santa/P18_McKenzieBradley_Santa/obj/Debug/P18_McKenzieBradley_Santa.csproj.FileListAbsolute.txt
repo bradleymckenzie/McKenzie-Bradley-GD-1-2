@@ -1,0 +1,27 @@
+C:\Users\stu281494\Desktop\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\bin\Debug\P18_McKenzieBradley_Santa.exe.config
+C:\Users\stu281494\Desktop\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\bin\Debug\P18_McKenzieBradley_Santa.exe
+C:\Users\stu281494\Desktop\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\bin\Debug\P18_McKenzieBradley_Santa.pdb
+C:\Users\stu281494\Desktop\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.csprojResolveAssemblyReference.cache
+C:\Users\stu281494\Desktop\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.form.resources
+C:\Users\stu281494\Desktop\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.Properties.Resources.resources
+C:\Users\stu281494\Desktop\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.csproj.GenerateResource.Cache
+C:\Users\stu281494\Desktop\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.exe
+C:\Users\stu281494\Desktop\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.pdb
+Z:\P2_GameDesign 2\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\bin\Debug\P18_McKenzieBradley_Santa.exe.config
+Z:\P2_GameDesign 2\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.exe
+Z:\P2_GameDesign 2\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.pdb
+Z:\P2_GameDesign 2\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\bin\Debug\P18_McKenzieBradley_Santa.exe
+Z:\P2_GameDesign 2\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\bin\Debug\P18_McKenzieBradley_Santa.pdb
+Z:\P2_GameDesign 2\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.form.resources
+Z:\P2_GameDesign 2\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.Properties.Resources.resources
+Z:\P2_GameDesign 2\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 1\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\bin\Debug\P18_McKenzieBradley_Santa.exe.config
+Z:\P2_GameDesign 2\Semester 1\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.exe
+Z:\P2_GameDesign 2\Semester 1\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.pdb
+Z:\P2_GameDesign 2\Semester 1\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\bin\Debug\P18_McKenzieBradley_Santa.exe
+Z:\P2_GameDesign 2\Semester 1\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\bin\Debug\P18_McKenzieBradley_Santa.pdb
+Z:\P2_GameDesign 2\Semester 1\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 1\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.form.resources
+Z:\P2_GameDesign 2\Semester 1\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 1\P18_McKenzieBradley_Santa\P18_McKenzieBradley_Santa\obj\Debug\P18_McKenzieBradley_Santa.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\P02_McKenzieBradley_Random\P02_McKenzieBradley_Random\bin\Debug\P02_McKenzieBradley_Random.exe.config
+Z:\P2_GameDesign 2\P02_McKenzieBradley_Random\P02_McKenzieBradley_Random\bin\Debug\P02_McKenzieBradley_Random.exe
+Z:\P2_GameDesign 2\P02_McKenzieBradley_Random\P02_McKenzieBradley_Random\bin\Debug\P02_McKenzieBradley_Random.pdb
+Z:\P2_GameDesign 2\P02_McKenzieBradley_Random\P02_McKenzieBradley_Random\obj\Debug\P02_McKenzieBradley_Random.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P02_McKenzieBradley_Random\P02_McKenzieBradley_Random\obj\Debug\P02_McKenzieBradley_Random.Form1.resources
+Z:\P2_GameDesign 2\P02_McKenzieBradley_Random\P02_McKenzieBradley_Random\obj\Debug\P02_McKenzieBradley_Random.Properties.Resources.resources
+Z:\P2_GameDesign 2\P02_McKenzieBradley_Random\P02_McKenzieBradley_Random\obj\Debug\P02_McKenzieBradley_Random.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\P02_McKenzieBradley_Random\P02_McKenzieBradley_Random\obj\Debug\P02_McKenzieBradley_Random.exe
+Z:\P2_GameDesign 2\P02_McKenzieBradley_Random\P02_McKenzieBradley_Random\obj\Debug\P02_McKenzieBradley_Random.pdb

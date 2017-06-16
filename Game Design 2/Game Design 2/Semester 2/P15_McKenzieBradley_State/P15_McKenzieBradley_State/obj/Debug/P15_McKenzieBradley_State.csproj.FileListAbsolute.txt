@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P15_McKenzieBradley_State\P15_McKenzieBradley_State\bin\Debug\P15_McKenzieBradley_State.exe.config
+Z:\P2_GameDesign 2\Semester 2\P15_McKenzieBradley_State\P15_McKenzieBradley_State\bin\Debug\P15_McKenzieBradley_State.exe
+Z:\P2_GameDesign 2\Semester 2\P15_McKenzieBradley_State\P15_McKenzieBradley_State\bin\Debug\P15_McKenzieBradley_State.pdb
+Z:\P2_GameDesign 2\Semester 2\P15_McKenzieBradley_State\P15_McKenzieBradley_State\obj\Debug\P15_McKenzieBradley_State.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P15_McKenzieBradley_State\P15_McKenzieBradley_State\obj\Debug\P15_McKenzieBradley_State.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P15_McKenzieBradley_State\P15_McKenzieBradley_State\obj\Debug\P15_McKenzieBradley_State.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P15_McKenzieBradley_State\P15_McKenzieBradley_State\obj\Debug\P15_McKenzieBradley_State.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P15_McKenzieBradley_State\P15_McKenzieBradley_State\obj\Debug\P15_McKenzieBradley_State.exe
+Z:\P2_GameDesign 2\Semester 2\P15_McKenzieBradley_State\P15_McKenzieBradley_State\obj\Debug\P15_McKenzieBradley_State.pdb

@@ -1,0 +1,20 @@
+Z:\P_15MathGame\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+Z:\P_15MathGame\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+Z:\P_15MathGame\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+Z:\P_15MathGame\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\P_15MathGame\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\P_15MathGame\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\P_15MathGame\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\P_15MathGame\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\P_15MathGame\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+Z:\P_15MathGame\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+Z:\P_15MathGame\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_15MathGame\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_15MathGame\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_15MathGame\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_15MathGame\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_15MathGame\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_15MathGame\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_15MathGame\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_15MathGame\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_15MathGame\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

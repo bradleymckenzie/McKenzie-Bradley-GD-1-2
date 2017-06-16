@@ -1,0 +1,12 @@
+Z:\P2_GameDesign 2\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\bin\Debug\P08_McKenzieBradley_Salary.exe.config
+Z:\P2_GameDesign 2\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\bin\Debug\P08_McKenzieBradley_Salary.exe
+Z:\P2_GameDesign 2\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\bin\Debug\P08_McKenzieBradley_Salary.pdb
+Z:\P2_GameDesign 2\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\obj\Debug\P08_McKenzieBradley_Salary.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\obj\Debug\P08_McKenzieBradley_Salary.Form1.resources
+Z:\P2_GameDesign 2\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\obj\Debug\P08_McKenzieBradley_Salary.Properties.Resources.resources
+Z:\P2_GameDesign 2\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\obj\Debug\P08_McKenzieBradley_Salary.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\obj\Debug\P08_McKenzieBradley_Salary.exe
+Z:\P2_GameDesign 2\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\obj\Debug\P08_McKenzieBradley_Salary.pdb
+Z:\P2_GameDesign 2\Semester 1\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\bin\Debug\P08_McKenzieBradley_Salary.exe.config
+Z:\P2_GameDesign 2\Semester 1\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\obj\Debug\P08_McKenzieBradley_Salary.exe
+Z:\P2_GameDesign 2\Semester 1\P08_McKenzieBradley_Salary\P08_McKenzieBradley_Salary\obj\Debug\P08_McKenzieBradley_Salary.pdb

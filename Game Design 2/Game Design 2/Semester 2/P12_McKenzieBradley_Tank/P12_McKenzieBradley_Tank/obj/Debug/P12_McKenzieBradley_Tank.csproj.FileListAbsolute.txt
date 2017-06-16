@@ -1,0 +1,18 @@
+Z:\P2_GameDesign 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\bin\Debug\P12_McKenzieBradley_Tank.exe.config
+Z:\P2_GameDesign 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\bin\Debug\P12_McKenzieBradley_Tank.exe
+Z:\P2_GameDesign 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\bin\Debug\P12_McKenzieBradley_Tank.pdb
+Z:\P2_GameDesign 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.Form1.resources
+Z:\P2_GameDesign 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.Properties.Resources.resources
+Z:\P2_GameDesign 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.exe
+Z:\P2_GameDesign 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.pdb
+Z:\P2_GameDesign 2\Semester 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\bin\Debug\P12_McKenzieBradley_Tank.exe.config
+Z:\P2_GameDesign 2\Semester 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.exe
+Z:\P2_GameDesign 2\Semester 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.pdb
+Z:\P2_GameDesign 2\Semester 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\bin\Debug\P12_McKenzieBradley_Tank.exe
+Z:\P2_GameDesign 2\Semester 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\bin\Debug\P12_McKenzieBradley_Tank.pdb
+Z:\P2_GameDesign 2\Semester 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P12_McKenzieBradley_Tank\P12_McKenzieBradley_Tank\obj\Debug\P12_McKenzieBradley_Tank.csproj.GenerateResource.Cache

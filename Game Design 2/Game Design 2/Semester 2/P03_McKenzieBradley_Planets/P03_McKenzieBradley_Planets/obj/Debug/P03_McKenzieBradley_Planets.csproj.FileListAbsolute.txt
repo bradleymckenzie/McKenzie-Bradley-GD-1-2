@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P03_McKenzieBradley_Planets\P03_McKenzieBradley_Planets\bin\Debug\P03_McKenzieBradley_Planets.exe.config
+Z:\P2_GameDesign 2\Semester 2\P03_McKenzieBradley_Planets\P03_McKenzieBradley_Planets\bin\Debug\P03_McKenzieBradley_Planets.exe
+Z:\P2_GameDesign 2\Semester 2\P03_McKenzieBradley_Planets\P03_McKenzieBradley_Planets\bin\Debug\P03_McKenzieBradley_Planets.pdb
+Z:\P2_GameDesign 2\Semester 2\P03_McKenzieBradley_Planets\P03_McKenzieBradley_Planets\obj\Debug\P03_McKenzieBradley_Planets.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P03_McKenzieBradley_Planets\P03_McKenzieBradley_Planets\obj\Debug\P03_McKenzieBradley_Planets.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P03_McKenzieBradley_Planets\P03_McKenzieBradley_Planets\obj\Debug\P03_McKenzieBradley_Planets.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P03_McKenzieBradley_Planets\P03_McKenzieBradley_Planets\obj\Debug\P03_McKenzieBradley_Planets.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P03_McKenzieBradley_Planets\P03_McKenzieBradley_Planets\obj\Debug\P03_McKenzieBradley_Planets.exe
+Z:\P2_GameDesign 2\Semester 2\P03_McKenzieBradley_Planets\P03_McKenzieBradley_Planets\obj\Debug\P03_McKenzieBradley_Planets.pdb

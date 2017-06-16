@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P09_McKenzieBradley_Creative1\P09_McKenzieBradley_Creative1\bin\Debug\P09_McKenzieBradley_Creative1.exe.config
+Z:\P2_GameDesign 2\Semester 2\P09_McKenzieBradley_Creative1\P09_McKenzieBradley_Creative1\bin\Debug\P09_McKenzieBradley_Creative1.exe
+Z:\P2_GameDesign 2\Semester 2\P09_McKenzieBradley_Creative1\P09_McKenzieBradley_Creative1\bin\Debug\P09_McKenzieBradley_Creative1.pdb
+Z:\P2_GameDesign 2\Semester 2\P09_McKenzieBradley_Creative1\P09_McKenzieBradley_Creative1\obj\Debug\P09_McKenzieBradley_Creative1.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P09_McKenzieBradley_Creative1\P09_McKenzieBradley_Creative1\obj\Debug\P09_McKenzieBradley_Creative1.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P09_McKenzieBradley_Creative1\P09_McKenzieBradley_Creative1\obj\Debug\P09_McKenzieBradley_Creative1.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P09_McKenzieBradley_Creative1\P09_McKenzieBradley_Creative1\obj\Debug\P09_McKenzieBradley_Creative1.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P09_McKenzieBradley_Creative1\P09_McKenzieBradley_Creative1\obj\Debug\P09_McKenzieBradley_Creative1.exe
+Z:\P2_GameDesign 2\Semester 2\P09_McKenzieBradley_Creative1\P09_McKenzieBradley_Creative1\obj\Debug\P09_McKenzieBradley_Creative1.pdb

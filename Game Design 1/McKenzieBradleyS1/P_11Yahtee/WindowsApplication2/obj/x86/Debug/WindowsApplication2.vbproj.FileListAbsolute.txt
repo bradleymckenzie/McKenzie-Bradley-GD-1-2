@@ -1,0 +1,9 @@
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_11Yahtee\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_11Yahtee\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_11Yahtee\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_11Yahtee\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_11Yahtee\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_11Yahtee\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_11Yahtee\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_11Yahtee\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\McKenzie\Desktop\Game Design\McKenzieBradleyS1\P_11Yahtee\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb

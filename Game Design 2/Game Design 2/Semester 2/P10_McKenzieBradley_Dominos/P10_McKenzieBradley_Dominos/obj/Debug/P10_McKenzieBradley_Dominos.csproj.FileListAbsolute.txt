@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P10_McKenzieBradley_Dominos\P10_McKenzieBradley_Dominos\bin\Debug\P10_McKenzieBradley_Dominos.exe.config
+Z:\P2_GameDesign 2\Semester 2\P10_McKenzieBradley_Dominos\P10_McKenzieBradley_Dominos\bin\Debug\P10_McKenzieBradley_Dominos.exe
+Z:\P2_GameDesign 2\Semester 2\P10_McKenzieBradley_Dominos\P10_McKenzieBradley_Dominos\bin\Debug\P10_McKenzieBradley_Dominos.pdb
+Z:\P2_GameDesign 2\Semester 2\P10_McKenzieBradley_Dominos\P10_McKenzieBradley_Dominos\obj\Debug\P10_McKenzieBradley_Dominos.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P10_McKenzieBradley_Dominos\P10_McKenzieBradley_Dominos\obj\Debug\P10_McKenzieBradley_Dominos.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P10_McKenzieBradley_Dominos\P10_McKenzieBradley_Dominos\obj\Debug\P10_McKenzieBradley_Dominos.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P10_McKenzieBradley_Dominos\P10_McKenzieBradley_Dominos\obj\Debug\P10_McKenzieBradley_Dominos.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P10_McKenzieBradley_Dominos\P10_McKenzieBradley_Dominos\obj\Debug\P10_McKenzieBradley_Dominos.exe
+Z:\P2_GameDesign 2\Semester 2\P10_McKenzieBradley_Dominos\P10_McKenzieBradley_Dominos\obj\Debug\P10_McKenzieBradley_Dominos.pdb

@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Flag\P14_McKenzieBradley_Flag\bin\Debug\P14_McKenzieBradley_Flag.exe.config
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Flag\P14_McKenzieBradley_Flag\obj\Debug\P14_McKenzieBradley_Flag.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Flag\P14_McKenzieBradley_Flag\obj\Debug\P14_McKenzieBradley_Flag.Form1.resources
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Flag\P14_McKenzieBradley_Flag\obj\Debug\P14_McKenzieBradley_Flag.Properties.Resources.resources
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Flag\P14_McKenzieBradley_Flag\obj\Debug\P14_McKenzieBradley_Flag.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Flag\P14_McKenzieBradley_Flag\bin\Debug\P14_McKenzieBradley_Flag.exe
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Flag\P14_McKenzieBradley_Flag\bin\Debug\P14_McKenzieBradley_Flag.pdb
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Flag\P14_McKenzieBradley_Flag\obj\Debug\P14_McKenzieBradley_Flag.exe
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Flag\P14_McKenzieBradley_Flag\obj\Debug\P14_McKenzieBradley_Flag.pdb

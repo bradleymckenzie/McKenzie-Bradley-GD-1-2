@@ -1,0 +1,8 @@
+Z:\P21_McKenzieBradley_SnackBar\P21_McKenzieBradley_SnackBar\bin\Debug\P21_McKenzieBradley_SnackBar.exe
+Z:\P21_McKenzieBradley_SnackBar\P21_McKenzieBradley_SnackBar\obj\x86\Debug\P21_McKenzieBradley_SnackBar.Form1.resources
+Z:\P21_McKenzieBradley_SnackBar\P21_McKenzieBradley_SnackBar\obj\x86\Debug\P21_McKenzieBradley_SnackBar.Form2.resources
+Z:\P21_McKenzieBradley_SnackBar\P21_McKenzieBradley_SnackBar\obj\x86\Debug\P21_McKenzieBradley_SnackBar.Resources.resources
+Z:\P21_McKenzieBradley_SnackBar\P21_McKenzieBradley_SnackBar\obj\x86\Debug\P21_McKenzieBradley_SnackBar.vbproj.GenerateResource.Cache
+Z:\P21_McKenzieBradley_SnackBar\P21_McKenzieBradley_SnackBar\obj\x86\Debug\P21_McKenzieBradley_SnackBar.exe
+Z:\P21_McKenzieBradley_SnackBar\P21_McKenzieBradley_SnackBar\obj\x86\Debug\P21_McKenzieBradley_SnackBar.xml
+Z:\P21_McKenzieBradley_SnackBar\P21_McKenzieBradley_SnackBar\obj\x86\Debug\P21_McKenzieBradley_SnackBar.pdb

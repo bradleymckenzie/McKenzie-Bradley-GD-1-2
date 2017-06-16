@@ -1,0 +1,12 @@
+Z:\Castle2\Castle2\obj\x86\Debug\Castle2.Form1.resources
+Z:\Castle2\Castle2\obj\x86\Debug\Castle2.Resources.resources
+Z:\Castle2\Castle2\obj\x86\Debug\Castle2.vbproj.GenerateResource.Cache
+Z:\Castle2\Castle2\bin\Debug\Castle2.exe
+Z:\Castle2\Castle2\bin\Debug\Castle2.pdb
+Z:\Castle2\Castle2\bin\Debug\Castle2.xml
+Z:\Castle2\Castle2\obj\x86\Debug\Castle2.exe
+Z:\Castle2\Castle2\obj\x86\Debug\Castle2.xml
+Z:\Castle2\Castle2\obj\x86\Debug\Castle2.pdb
+Z:\McKenzieBradleyS1\Castle2\Castle2\obj\x86\Debug\Castle2.exe
+Z:\McKenzieBradleyS1\Castle2\Castle2\obj\x86\Debug\Castle2.xml
+Z:\McKenzieBradleyS1\Castle2\Castle2\obj\x86\Debug\Castle2.pdb

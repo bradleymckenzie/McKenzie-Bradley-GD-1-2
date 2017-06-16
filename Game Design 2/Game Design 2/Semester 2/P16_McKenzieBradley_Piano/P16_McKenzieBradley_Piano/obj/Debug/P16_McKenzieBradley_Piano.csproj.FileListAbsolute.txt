@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P16_McKenzieBradley_Piano\P16_McKenzieBradley_Piano\bin\Debug\P16_McKenzieBradley_Piano.exe.config
+Z:\P2_GameDesign 2\Semester 2\P16_McKenzieBradley_Piano\P16_McKenzieBradley_Piano\bin\Debug\P16_McKenzieBradley_Piano.exe
+Z:\P2_GameDesign 2\Semester 2\P16_McKenzieBradley_Piano\P16_McKenzieBradley_Piano\bin\Debug\P16_McKenzieBradley_Piano.pdb
+Z:\P2_GameDesign 2\Semester 2\P16_McKenzieBradley_Piano\P16_McKenzieBradley_Piano\obj\Debug\P16_McKenzieBradley_Piano.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P16_McKenzieBradley_Piano\P16_McKenzieBradley_Piano\obj\Debug\P16_McKenzieBradley_Piano.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P16_McKenzieBradley_Piano\P16_McKenzieBradley_Piano\obj\Debug\P16_McKenzieBradley_Piano.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P16_McKenzieBradley_Piano\P16_McKenzieBradley_Piano\obj\Debug\P16_McKenzieBradley_Piano.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P16_McKenzieBradley_Piano\P16_McKenzieBradley_Piano\obj\Debug\P16_McKenzieBradley_Piano.exe
+Z:\P2_GameDesign 2\Semester 2\P16_McKenzieBradley_Piano\P16_McKenzieBradley_Piano\obj\Debug\P16_McKenzieBradley_Piano.pdb

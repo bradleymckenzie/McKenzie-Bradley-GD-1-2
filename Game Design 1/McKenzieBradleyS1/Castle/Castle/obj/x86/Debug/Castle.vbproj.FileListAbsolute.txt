@@ -1,0 +1,9 @@
+Z:\Castle\Castle\bin\Debug\Castle.exe
+Z:\Castle\Castle\bin\Debug\Castle.pdb
+Z:\Castle\Castle\bin\Debug\Castle.xml
+Z:\Castle\Castle\obj\x86\Debug\Castle.Form1.resources
+Z:\Castle\Castle\obj\x86\Debug\Castle.Resources.resources
+Z:\Castle\Castle\obj\x86\Debug\Castle.vbproj.GenerateResource.Cache
+Z:\Castle\Castle\obj\x86\Debug\Castle.exe
+Z:\Castle\Castle\obj\x86\Debug\Castle.xml
+Z:\Castle\Castle\obj\x86\Debug\Castle.pdb

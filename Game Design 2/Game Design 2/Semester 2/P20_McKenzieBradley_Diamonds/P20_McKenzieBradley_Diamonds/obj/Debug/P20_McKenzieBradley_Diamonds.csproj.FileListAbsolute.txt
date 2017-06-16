@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P20_McKenzieBradley_Diamonds\P20_McKenzieBradley_Diamonds\bin\Debug\P20_McKenzieBradley_Diamonds.exe.config
+Z:\P2_GameDesign 2\Semester 2\P20_McKenzieBradley_Diamonds\P20_McKenzieBradley_Diamonds\bin\Debug\P20_McKenzieBradley_Diamonds.exe
+Z:\P2_GameDesign 2\Semester 2\P20_McKenzieBradley_Diamonds\P20_McKenzieBradley_Diamonds\bin\Debug\P20_McKenzieBradley_Diamonds.pdb
+Z:\P2_GameDesign 2\Semester 2\P20_McKenzieBradley_Diamonds\P20_McKenzieBradley_Diamonds\obj\Debug\P20_McKenzieBradley_Diamonds.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P20_McKenzieBradley_Diamonds\P20_McKenzieBradley_Diamonds\obj\Debug\P20_McKenzieBradley_Diamonds.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P20_McKenzieBradley_Diamonds\P20_McKenzieBradley_Diamonds\obj\Debug\P20_McKenzieBradley_Diamonds.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P20_McKenzieBradley_Diamonds\P20_McKenzieBradley_Diamonds\obj\Debug\P20_McKenzieBradley_Diamonds.exe
+Z:\P2_GameDesign 2\Semester 2\P20_McKenzieBradley_Diamonds\P20_McKenzieBradley_Diamonds\obj\Debug\P20_McKenzieBradley_Diamonds.pdb
+Z:\P2_GameDesign 2\Semester 2\P20_McKenzieBradley_Diamonds\P20_McKenzieBradley_Diamonds\obj\Debug\P20_McKenzieBradley_Diamonds.csprojResolveAssemblyReference.cache

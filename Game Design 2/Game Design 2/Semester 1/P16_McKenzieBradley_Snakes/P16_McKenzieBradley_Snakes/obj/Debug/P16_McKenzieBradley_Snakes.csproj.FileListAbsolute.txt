@@ -1,0 +1,15 @@
+C:\Users\stu281494\Desktop\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\bin\Debug\P16_McKenzieBradley_Snakes.exe.config
+C:\Users\stu281494\Desktop\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\bin\Debug\P16_McKenzieBradley_Snakes.exe
+C:\Users\stu281494\Desktop\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\bin\Debug\P16_McKenzieBradley_Snakes.pdb
+C:\Users\stu281494\Desktop\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\obj\Debug\P16_McKenzieBradley_Snakes.Form1.resources
+C:\Users\stu281494\Desktop\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\obj\Debug\P16_McKenzieBradley_Snakes.Properties.Resources.resources
+C:\Users\stu281494\Desktop\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\obj\Debug\P16_McKenzieBradley_Snakes.csproj.GenerateResource.Cache
+C:\Users\stu281494\Desktop\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\obj\Debug\P16_McKenzieBradley_Snakes.exe
+C:\Users\stu281494\Desktop\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\obj\Debug\P16_McKenzieBradley_Snakes.pdb
+C:\Users\stu281494\Desktop\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\obj\Debug\P16_McKenzieBradley_Snakes.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\bin\Debug\P16_McKenzieBradley_Snakes.exe.config
+Z:\P2_GameDesign 2\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\obj\Debug\P16_McKenzieBradley_Snakes.exe
+Z:\P2_GameDesign 2\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\obj\Debug\P16_McKenzieBradley_Snakes.pdb
+Z:\P2_GameDesign 2\Semester 1\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\bin\Debug\P16_McKenzieBradley_Snakes.exe.config
+Z:\P2_GameDesign 2\Semester 1\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\obj\Debug\P16_McKenzieBradley_Snakes.exe
+Z:\P2_GameDesign 2\Semester 1\P16_McKenzieBradley_Snakes\P16_McKenzieBradley_Snakes\obj\Debug\P16_McKenzieBradley_Snakes.pdb

@@ -1,0 +1,12 @@
+Z:\P2_GameDesign 2\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\bin\Debug\P07_McKenzieBradley_Chaos.exe.config
+Z:\P2_GameDesign 2\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\obj\Debug\P07_McKenzieBradley_Chaos.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\obj\Debug\P07_McKenzieBradley_Chaos.Form1.resources
+Z:\P2_GameDesign 2\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\obj\Debug\P07_McKenzieBradley_Chaos.Properties.Resources.resources
+Z:\P2_GameDesign 2\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\obj\Debug\P07_McKenzieBradley_Chaos.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\bin\Debug\P07_McKenzieBradley_Chaos.exe
+Z:\P2_GameDesign 2\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\bin\Debug\P07_McKenzieBradley_Chaos.pdb
+Z:\P2_GameDesign 2\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\obj\Debug\P07_McKenzieBradley_Chaos.exe
+Z:\P2_GameDesign 2\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\obj\Debug\P07_McKenzieBradley_Chaos.pdb
+Z:\P2_GameDesign 2\Semester 1\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\bin\Debug\P07_McKenzieBradley_Chaos.exe.config
+Z:\P2_GameDesign 2\Semester 1\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\obj\Debug\P07_McKenzieBradley_Chaos.exe
+Z:\P2_GameDesign 2\Semester 1\P07_McKenzieBradley_Chaos\P07_McKenzieBradley_Chaos\obj\Debug\P07_McKenzieBradley_Chaos.pdb

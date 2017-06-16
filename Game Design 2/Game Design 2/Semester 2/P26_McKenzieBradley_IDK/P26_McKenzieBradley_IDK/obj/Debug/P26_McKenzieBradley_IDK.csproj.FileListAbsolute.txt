@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P26_McKenzieBradley_IDK\P26_McKenzieBradley_IDK\bin\Debug\P26_McKenzieBradley_IDK.exe.config
+Z:\P2_GameDesign 2\Semester 2\P26_McKenzieBradley_IDK\P26_McKenzieBradley_IDK\bin\Debug\P26_McKenzieBradley_IDK.exe
+Z:\P2_GameDesign 2\Semester 2\P26_McKenzieBradley_IDK\P26_McKenzieBradley_IDK\bin\Debug\P26_McKenzieBradley_IDK.pdb
+Z:\P2_GameDesign 2\Semester 2\P26_McKenzieBradley_IDK\P26_McKenzieBradley_IDK\obj\Debug\P26_McKenzieBradley_IDK.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P26_McKenzieBradley_IDK\P26_McKenzieBradley_IDK\obj\Debug\P26_McKenzieBradley_IDK.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P26_McKenzieBradley_IDK\P26_McKenzieBradley_IDK\obj\Debug\P26_McKenzieBradley_IDK.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P26_McKenzieBradley_IDK\P26_McKenzieBradley_IDK\obj\Debug\P26_McKenzieBradley_IDK.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P26_McKenzieBradley_IDK\P26_McKenzieBradley_IDK\obj\Debug\P26_McKenzieBradley_IDK.exe
+Z:\P2_GameDesign 2\Semester 2\P26_McKenzieBradley_IDK\P26_McKenzieBradley_IDK\obj\Debug\P26_McKenzieBradley_IDK.pdb

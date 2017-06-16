@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Guitar\P14_McKenzieBradley_Guitar\bin\Debug\P14_McKenzieBradley_Guitar.exe.config
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Guitar\P14_McKenzieBradley_Guitar\bin\Debug\P14_McKenzieBradley_Guitar.exe
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Guitar\P14_McKenzieBradley_Guitar\bin\Debug\P14_McKenzieBradley_Guitar.pdb
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Guitar\P14_McKenzieBradley_Guitar\obj\Debug\P14_McKenzieBradley_Guitar.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Guitar\P14_McKenzieBradley_Guitar\obj\Debug\P14_McKenzieBradley_Guitar.Properties.Resources.resources
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Guitar\P14_McKenzieBradley_Guitar\obj\Debug\P14_McKenzieBradley_Guitar.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Guitar\P14_McKenzieBradley_Guitar\obj\Debug\P14_McKenzieBradley_Guitar.exe
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Guitar\P14_McKenzieBradley_Guitar\obj\Debug\P14_McKenzieBradley_Guitar.pdb
+Z:\P2_GameDesign 2\P14_McKenzieBradley_Guitar\P14_McKenzieBradley_Guitar\obj\Debug\P14_McKenzieBradley_Guitar.Form1.resources

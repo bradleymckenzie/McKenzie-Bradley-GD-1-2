@@ -1,0 +1,12 @@
+Z:\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\bin\Debug\P15_McKenzieBradley_Sphere.exe
+Z:\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\bin\Debug\P15_McKenzieBradley_Sphere.pdb
+Z:\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\bin\Debug\P15_McKenzieBradley_Sphere.xml
+Z:\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\obj\x86\Debug\P15_McKenzieBradley_Sphere.Form1.resources
+Z:\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\obj\x86\Debug\P15_McKenzieBradley_Sphere.Resources.resources
+Z:\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\obj\x86\Debug\P15_McKenzieBradley_Sphere.vbproj.GenerateResource.Cache
+Z:\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\obj\x86\Debug\P15_McKenzieBradley_Sphere.exe
+Z:\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\obj\x86\Debug\P15_McKenzieBradley_Sphere.xml
+Z:\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\obj\x86\Debug\P15_McKenzieBradley_Sphere.pdb
+Z:\McKenzieBradleyS2\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\obj\x86\Debug\P15_McKenzieBradley_Sphere.exe
+Z:\McKenzieBradleyS2\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\obj\x86\Debug\P15_McKenzieBradley_Sphere.xml
+Z:\McKenzieBradleyS2\P15_McKenzieBradley_Sphere\P15_McKenzieBradley_Sphere\obj\x86\Debug\P15_McKenzieBradley_Sphere.pdb

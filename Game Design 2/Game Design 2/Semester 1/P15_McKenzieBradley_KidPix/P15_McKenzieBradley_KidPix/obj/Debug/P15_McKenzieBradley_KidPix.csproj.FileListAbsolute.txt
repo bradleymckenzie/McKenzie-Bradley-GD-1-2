@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\P15_McKenzieBradley_KidPix\P15_McKenzieBradley_KidPix\bin\Debug\P15_McKenzieBradley_KidPix.exe.config
+Z:\P2_GameDesign 2\P15_McKenzieBradley_KidPix\P15_McKenzieBradley_KidPix\obj\Debug\P15_McKenzieBradley_KidPix.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P15_McKenzieBradley_KidPix\P15_McKenzieBradley_KidPix\obj\Debug\P15_McKenzieBradley_KidPix.Form1.resources
+Z:\P2_GameDesign 2\P15_McKenzieBradley_KidPix\P15_McKenzieBradley_KidPix\obj\Debug\P15_McKenzieBradley_KidPix.Properties.Resources.resources
+Z:\P2_GameDesign 2\P15_McKenzieBradley_KidPix\P15_McKenzieBradley_KidPix\obj\Debug\P15_McKenzieBradley_KidPix.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\P15_McKenzieBradley_KidPix\P15_McKenzieBradley_KidPix\bin\Debug\P15_McKenzieBradley_KidPix.exe
+Z:\P2_GameDesign 2\P15_McKenzieBradley_KidPix\P15_McKenzieBradley_KidPix\bin\Debug\P15_McKenzieBradley_KidPix.pdb
+Z:\P2_GameDesign 2\P15_McKenzieBradley_KidPix\P15_McKenzieBradley_KidPix\obj\Debug\P15_McKenzieBradley_KidPix.exe
+Z:\P2_GameDesign 2\P15_McKenzieBradley_KidPix\P15_McKenzieBradley_KidPix\obj\Debug\P15_McKenzieBradley_KidPix.pdb

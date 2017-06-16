@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P17_McKenzieBradley_Braille\P17_McKenzieBradley_Braille\bin\Debug\P17_McKenzieBradley_Braille.exe.config
+Z:\P2_GameDesign 2\Semester 2\P17_McKenzieBradley_Braille\P17_McKenzieBradley_Braille\bin\Debug\P17_McKenzieBradley_Braille.exe
+Z:\P2_GameDesign 2\Semester 2\P17_McKenzieBradley_Braille\P17_McKenzieBradley_Braille\bin\Debug\P17_McKenzieBradley_Braille.pdb
+Z:\P2_GameDesign 2\Semester 2\P17_McKenzieBradley_Braille\P17_McKenzieBradley_Braille\obj\Debug\P17_McKenzieBradley_Braille.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P17_McKenzieBradley_Braille\P17_McKenzieBradley_Braille\obj\Debug\P17_McKenzieBradley_Braille.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P17_McKenzieBradley_Braille\P17_McKenzieBradley_Braille\obj\Debug\P17_McKenzieBradley_Braille.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P17_McKenzieBradley_Braille\P17_McKenzieBradley_Braille\obj\Debug\P17_McKenzieBradley_Braille.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P17_McKenzieBradley_Braille\P17_McKenzieBradley_Braille\obj\Debug\P17_McKenzieBradley_Braille.exe
+Z:\P2_GameDesign 2\Semester 2\P17_McKenzieBradley_Braille\P17_McKenzieBradley_Braille\obj\Debug\P17_McKenzieBradley_Braille.pdb

@@ -1,0 +1,14 @@
+Z:\Translator5\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+Z:\Translator5\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+Z:\Translator5\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+Z:\Translator5\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Translator5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\Translator5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\Translator5\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Translator5\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Translator5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+Z:\Translator5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+Z:\Translator5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+Z:\Translator#5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+Z:\Translator#5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+Z:\Translator#5\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

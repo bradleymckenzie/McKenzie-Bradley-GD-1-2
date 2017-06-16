@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P04_McKenzieBradley_Materials\P04_McKenzieBradley_Materials\bin\Debug\P04_McKenzieBradley_Materials.exe.config
+Z:\P2_GameDesign 2\Semester 2\P04_McKenzieBradley_Materials\P04_McKenzieBradley_Materials\bin\Debug\P04_McKenzieBradley_Materials.exe
+Z:\P2_GameDesign 2\Semester 2\P04_McKenzieBradley_Materials\P04_McKenzieBradley_Materials\bin\Debug\P04_McKenzieBradley_Materials.pdb
+Z:\P2_GameDesign 2\Semester 2\P04_McKenzieBradley_Materials\P04_McKenzieBradley_Materials\obj\Debug\P04_McKenzieBradley_Materials.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P04_McKenzieBradley_Materials\P04_McKenzieBradley_Materials\obj\Debug\P04_McKenzieBradley_Materials.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P04_McKenzieBradley_Materials\P04_McKenzieBradley_Materials\obj\Debug\P04_McKenzieBradley_Materials.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P04_McKenzieBradley_Materials\P04_McKenzieBradley_Materials\obj\Debug\P04_McKenzieBradley_Materials.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P04_McKenzieBradley_Materials\P04_McKenzieBradley_Materials\obj\Debug\P04_McKenzieBradley_Materials.exe
+Z:\P2_GameDesign 2\Semester 2\P04_McKenzieBradley_Materials\P04_McKenzieBradley_Materials\obj\Debug\P04_McKenzieBradley_Materials.pdb

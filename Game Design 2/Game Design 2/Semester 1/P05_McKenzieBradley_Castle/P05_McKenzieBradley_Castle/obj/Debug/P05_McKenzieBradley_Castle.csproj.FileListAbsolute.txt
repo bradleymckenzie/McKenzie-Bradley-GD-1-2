@@ -1,0 +1,18 @@
+Z:\P2_GameDesign 2\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\bin\Debug\P05_McKenzieBradley_Castle.exe.config
+Z:\P2_GameDesign 2\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\bin\Debug\P05_McKenzieBradley_Castle.exe
+Z:\P2_GameDesign 2\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\bin\Debug\P05_McKenzieBradley_Castle.pdb
+Z:\P2_GameDesign 2\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.Form1.resources
+Z:\P2_GameDesign 2\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.Properties.Resources.resources
+Z:\P2_GameDesign 2\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.exe
+Z:\P2_GameDesign 2\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.pdb
+Z:\P2_GameDesign 2\Semester 1\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\bin\Debug\P05_McKenzieBradley_Castle.exe.config
+Z:\P2_GameDesign 2\Semester 1\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.exe
+Z:\P2_GameDesign 2\Semester 1\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.pdb
+Z:\P2_GameDesign 2\Semester 1\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\bin\Debug\P05_McKenzieBradley_Castle.exe
+Z:\P2_GameDesign 2\Semester 1\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\bin\Debug\P05_McKenzieBradley_Castle.pdb
+Z:\P2_GameDesign 2\Semester 1\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 1\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.Form1.resources
+Z:\P2_GameDesign 2\Semester 1\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 1\P05_McKenzieBradley_Castle\P05_McKenzieBradley_Castle\obj\Debug\P05_McKenzieBradley_Castle.csproj.GenerateResource.Cache

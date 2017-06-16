@@ -1,0 +1,11 @@
+Z:\Lakers9\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Lakers9\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+Z:\Lakers9\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+Z:\Lakers9\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Lakers9\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Lakers9\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+Z:\Lakers9\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+Z:\Lakers9\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+Z:\Lakers9\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+Z:\Lakers9\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+Z:\Lakers9\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb

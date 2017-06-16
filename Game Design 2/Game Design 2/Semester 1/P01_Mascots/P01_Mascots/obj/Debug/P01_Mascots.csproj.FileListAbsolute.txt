@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\P01_Mascots\P01_Mascots\bin\Debug\P01_Mascots.exe.config
+Z:\P2_GameDesign 2\P01_Mascots\P01_Mascots\bin\Debug\P01_Mascots.exe
+Z:\P2_GameDesign 2\P01_Mascots\P01_Mascots\bin\Debug\P01_Mascots.pdb
+Z:\P2_GameDesign 2\P01_Mascots\P01_Mascots\obj\Debug\P01_Mascots.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P01_Mascots\P01_Mascots\obj\Debug\P01_Mascots.Form1.resources
+Z:\P2_GameDesign 2\P01_Mascots\P01_Mascots\obj\Debug\P01_Mascots.Properties.Resources.resources
+Z:\P2_GameDesign 2\P01_Mascots\P01_Mascots\obj\Debug\P01_Mascots.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\P01_Mascots\P01_Mascots\obj\Debug\P01_Mascots.exe
+Z:\P2_GameDesign 2\P01_Mascots\P01_Mascots\obj\Debug\P01_Mascots.pdb

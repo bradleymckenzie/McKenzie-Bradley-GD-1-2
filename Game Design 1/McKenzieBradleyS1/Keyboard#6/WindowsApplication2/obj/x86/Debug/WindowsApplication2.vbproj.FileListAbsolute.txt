@@ -1,0 +1,17 @@
+Z:\Keyboard6\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+Z:\Keyboard6\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+Z:\Keyboard6\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+Z:\Keyboard6\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Keyboard6\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+Z:\Keyboard6\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+Z:\Keyboard6\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Keyboard6\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Keyboard6\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+Z:\Keyboard6\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+Z:\Keyboard6\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+\\APP-93-SERVER01\Students\stu281494\Keyboard#6\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+\\APP-93-SERVER01\Students\stu281494\Keyboard#6\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+\\APP-93-SERVER01\Students\stu281494\Keyboard#6\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+Z:\Keyboard#6\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+Z:\Keyboard#6\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+Z:\Keyboard#6\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb

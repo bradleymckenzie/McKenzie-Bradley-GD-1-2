@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\P13_McKenzieBradley_Dice\P13_McKenzieBradley_Dice\bin\Debug\P13_McKenzieBradley_Dice.exe.config
+Z:\P2_GameDesign 2\P13_McKenzieBradley_Dice\P13_McKenzieBradley_Dice\bin\Debug\P13_McKenzieBradley_Dice.exe
+Z:\P2_GameDesign 2\P13_McKenzieBradley_Dice\P13_McKenzieBradley_Dice\bin\Debug\P13_McKenzieBradley_Dice.pdb
+Z:\P2_GameDesign 2\P13_McKenzieBradley_Dice\P13_McKenzieBradley_Dice\obj\Debug\P13_McKenzieBradley_Dice.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\P13_McKenzieBradley_Dice\P13_McKenzieBradley_Dice\obj\Debug\P13_McKenzieBradley_Dice.Form1.resources
+Z:\P2_GameDesign 2\P13_McKenzieBradley_Dice\P13_McKenzieBradley_Dice\obj\Debug\P13_McKenzieBradley_Dice.Properties.Resources.resources
+Z:\P2_GameDesign 2\P13_McKenzieBradley_Dice\P13_McKenzieBradley_Dice\obj\Debug\P13_McKenzieBradley_Dice.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\P13_McKenzieBradley_Dice\P13_McKenzieBradley_Dice\obj\Debug\P13_McKenzieBradley_Dice.exe
+Z:\P2_GameDesign 2\P13_McKenzieBradley_Dice\P13_McKenzieBradley_Dice\obj\Debug\P13_McKenzieBradley_Dice.pdb

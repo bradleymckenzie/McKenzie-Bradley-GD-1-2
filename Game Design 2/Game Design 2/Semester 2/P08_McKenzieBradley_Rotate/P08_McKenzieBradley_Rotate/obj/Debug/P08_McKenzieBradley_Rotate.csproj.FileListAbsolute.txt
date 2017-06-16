@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P08_McKenzieBradley_Rotate\P08_McKenzieBradley_Rotate\bin\Debug\P08_McKenzieBradley_Rotate.exe.config
+Z:\P2_GameDesign 2\Semester 2\P08_McKenzieBradley_Rotate\P08_McKenzieBradley_Rotate\bin\Debug\P08_McKenzieBradley_Rotate.exe
+Z:\P2_GameDesign 2\Semester 2\P08_McKenzieBradley_Rotate\P08_McKenzieBradley_Rotate\bin\Debug\P08_McKenzieBradley_Rotate.pdb
+Z:\P2_GameDesign 2\Semester 2\P08_McKenzieBradley_Rotate\P08_McKenzieBradley_Rotate\obj\Debug\P08_McKenzieBradley_Rotate.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P08_McKenzieBradley_Rotate\P08_McKenzieBradley_Rotate\obj\Debug\P08_McKenzieBradley_Rotate.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P08_McKenzieBradley_Rotate\P08_McKenzieBradley_Rotate\obj\Debug\P08_McKenzieBradley_Rotate.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P08_McKenzieBradley_Rotate\P08_McKenzieBradley_Rotate\obj\Debug\P08_McKenzieBradley_Rotate.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P08_McKenzieBradley_Rotate\P08_McKenzieBradley_Rotate\obj\Debug\P08_McKenzieBradley_Rotate.exe
+Z:\P2_GameDesign 2\Semester 2\P08_McKenzieBradley_Rotate\P08_McKenzieBradley_Rotate\obj\Debug\P08_McKenzieBradley_Rotate.pdb

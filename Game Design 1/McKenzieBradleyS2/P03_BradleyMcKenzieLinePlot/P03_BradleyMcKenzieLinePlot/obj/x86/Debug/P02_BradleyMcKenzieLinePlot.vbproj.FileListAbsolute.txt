@@ -1,0 +1,9 @@
+Z:\P03_BradleyMcKenzieLinePlot\P03_BradleyMcKenzieLinePlot\bin\Debug\P03_BradleyMcKenzieLinePlot.exe
+Z:\P03_BradleyMcKenzieLinePlot\P03_BradleyMcKenzieLinePlot\bin\Debug\P03_BradleyMcKenzieLinePlot.pdb
+Z:\P03_BradleyMcKenzieLinePlot\P03_BradleyMcKenzieLinePlot\bin\Debug\P03_BradleyMcKenzieLinePlot.xml
+Z:\P03_BradleyMcKenzieLinePlot\P03_BradleyMcKenzieLinePlot\obj\x86\Debug\P03_BradleyMcKenzieLinePlot.Form1.resources
+Z:\P03_BradleyMcKenzieLinePlot\P03_BradleyMcKenzieLinePlot\obj\x86\Debug\P03_BradleyMcKenzieLinePlot.Resources.resources
+Z:\P03_BradleyMcKenzieLinePlot\P03_BradleyMcKenzieLinePlot\obj\x86\Debug\P02_BradleyMcKenzieLinePlot.vbproj.GenerateResource.Cache
+Z:\P03_BradleyMcKenzieLinePlot\P03_BradleyMcKenzieLinePlot\obj\x86\Debug\P03_BradleyMcKenzieLinePlot.exe
+Z:\P03_BradleyMcKenzieLinePlot\P03_BradleyMcKenzieLinePlot\obj\x86\Debug\P03_BradleyMcKenzieLinePlot.xml
+Z:\P03_BradleyMcKenzieLinePlot\P03_BradleyMcKenzieLinePlot\obj\x86\Debug\P03_BradleyMcKenzieLinePlot.pdb

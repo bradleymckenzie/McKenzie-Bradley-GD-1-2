@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P05_McKenzieBradley_Coins\P05_McKenzieBradley_Coins\bin\Debug\P05_McKenzieBradley_Coins.exe.config
+Z:\P2_GameDesign 2\Semester 2\P05_McKenzieBradley_Coins\P05_McKenzieBradley_Coins\bin\Debug\P05_McKenzieBradley_Coins.exe
+Z:\P2_GameDesign 2\Semester 2\P05_McKenzieBradley_Coins\P05_McKenzieBradley_Coins\bin\Debug\P05_McKenzieBradley_Coins.pdb
+Z:\P2_GameDesign 2\Semester 2\P05_McKenzieBradley_Coins\P05_McKenzieBradley_Coins\obj\Debug\P05_McKenzieBradley_Coins.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P05_McKenzieBradley_Coins\P05_McKenzieBradley_Coins\obj\Debug\P05_McKenzieBradley_Coins.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P05_McKenzieBradley_Coins\P05_McKenzieBradley_Coins\obj\Debug\P05_McKenzieBradley_Coins.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P05_McKenzieBradley_Coins\P05_McKenzieBradley_Coins\obj\Debug\P05_McKenzieBradley_Coins.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P05_McKenzieBradley_Coins\P05_McKenzieBradley_Coins\obj\Debug\P05_McKenzieBradley_Coins.exe
+Z:\P2_GameDesign 2\Semester 2\P05_McKenzieBradley_Coins\P05_McKenzieBradley_Coins\obj\Debug\P05_McKenzieBradley_Coins.pdb

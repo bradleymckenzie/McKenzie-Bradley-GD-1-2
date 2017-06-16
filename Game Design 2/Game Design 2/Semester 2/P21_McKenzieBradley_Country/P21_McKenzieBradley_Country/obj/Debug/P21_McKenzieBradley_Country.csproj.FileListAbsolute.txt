@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P21_McKenzieBradley_Country\P21_McKenzieBradley_Country\bin\Debug\P21_McKenzieBradley_Country.exe.config
+Z:\P2_GameDesign 2\Semester 2\P21_McKenzieBradley_Country\P21_McKenzieBradley_Country\bin\Debug\P21_McKenzieBradley_Country.exe
+Z:\P2_GameDesign 2\Semester 2\P21_McKenzieBradley_Country\P21_McKenzieBradley_Country\bin\Debug\P21_McKenzieBradley_Country.pdb
+Z:\P2_GameDesign 2\Semester 2\P21_McKenzieBradley_Country\P21_McKenzieBradley_Country\obj\Debug\P21_McKenzieBradley_Country.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P21_McKenzieBradley_Country\P21_McKenzieBradley_Country\obj\Debug\P21_McKenzieBradley_Country.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P21_McKenzieBradley_Country\P21_McKenzieBradley_Country\obj\Debug\P21_McKenzieBradley_Country.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P21_McKenzieBradley_Country\P21_McKenzieBradley_Country\obj\Debug\P21_McKenzieBradley_Country.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P21_McKenzieBradley_Country\P21_McKenzieBradley_Country\obj\Debug\P21_McKenzieBradley_Country.exe
+Z:\P2_GameDesign 2\Semester 2\P21_McKenzieBradley_Country\P21_McKenzieBradley_Country\obj\Debug\P21_McKenzieBradley_Country.pdb

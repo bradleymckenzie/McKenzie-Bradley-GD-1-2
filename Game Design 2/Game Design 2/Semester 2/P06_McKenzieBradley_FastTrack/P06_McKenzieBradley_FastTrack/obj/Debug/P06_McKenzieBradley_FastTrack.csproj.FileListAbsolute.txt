@@ -1,0 +1,9 @@
+Z:\P2_GameDesign 2\Semester 2\P06_McKenzieBradley_FastTrack\P06_McKenzieBradley_FastTrack\bin\Debug\P06_McKenzieBradley_FastTrack.exe.config
+Z:\P2_GameDesign 2\Semester 2\P06_McKenzieBradley_FastTrack\P06_McKenzieBradley_FastTrack\obj\Debug\P06_McKenzieBradley_FastTrack.csprojResolveAssemblyReference.cache
+Z:\P2_GameDesign 2\Semester 2\P06_McKenzieBradley_FastTrack\P06_McKenzieBradley_FastTrack\obj\Debug\P06_McKenzieBradley_FastTrack.Form1.resources
+Z:\P2_GameDesign 2\Semester 2\P06_McKenzieBradley_FastTrack\P06_McKenzieBradley_FastTrack\obj\Debug\P06_McKenzieBradley_FastTrack.Properties.Resources.resources
+Z:\P2_GameDesign 2\Semester 2\P06_McKenzieBradley_FastTrack\P06_McKenzieBradley_FastTrack\obj\Debug\P06_McKenzieBradley_FastTrack.csproj.GenerateResource.Cache
+Z:\P2_GameDesign 2\Semester 2\P06_McKenzieBradley_FastTrack\P06_McKenzieBradley_FastTrack\bin\Debug\P06_McKenzieBradley_FastTrack.exe
+Z:\P2_GameDesign 2\Semester 2\P06_McKenzieBradley_FastTrack\P06_McKenzieBradley_FastTrack\bin\Debug\P06_McKenzieBradley_FastTrack.pdb
+Z:\P2_GameDesign 2\Semester 2\P06_McKenzieBradley_FastTrack\P06_McKenzieBradley_FastTrack\obj\Debug\P06_McKenzieBradley_FastTrack.exe
+Z:\P2_GameDesign 2\Semester 2\P06_McKenzieBradley_FastTrack\P06_McKenzieBradley_FastTrack\obj\Debug\P06_McKenzieBradley_FastTrack.pdb

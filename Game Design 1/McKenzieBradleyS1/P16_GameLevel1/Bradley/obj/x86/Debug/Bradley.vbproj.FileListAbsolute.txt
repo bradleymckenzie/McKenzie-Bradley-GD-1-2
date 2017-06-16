@@ -1,0 +1,9 @@
+Z:\P16_GameLevel1\Bradley\obj\x86\Debug\Bradley.Form1.resources
+Z:\P16_GameLevel1\Bradley\obj\x86\Debug\Bradley.Resources.resources
+Z:\P16_GameLevel1\Bradley\bin\Debug\Bradley.exe
+Z:\P16_GameLevel1\Bradley\bin\Debug\Bradley.pdb
+Z:\P16_GameLevel1\Bradley\bin\Debug\Bradley.xml
+Z:\P16_GameLevel1\Bradley\obj\x86\Debug\Bradley.exe
+Z:\P16_GameLevel1\Bradley\obj\x86\Debug\Bradley.xml
+Z:\P16_GameLevel1\Bradley\obj\x86\Debug\Bradley.pdb
+Z:\P16_GameLevel1\Bradley\obj\x86\Debug\Bradley.vbproj.GenerateResource.Cache
